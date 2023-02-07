@@ -1,0 +1,28 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-color: black;
+	background-image: url("https://i.pinimg.com/564x/c3/15/ea/c315ea300631f2083ec35c74f6bff765.jpg");
+}
+
+div {
+	margin: 250px auto;
+	background: rgba(0, 0, 0, 0.4);
+}
+
+div > p {
+	color: white;
+	font-style: italic;
+	font-size: 16px;
+	line-height: 30px;
+}
+
+div > h4 {
+	letter-spacing: 5px;
+	padding-bottom: 25px;
+	text-align: left;
+	color: red;
+}
